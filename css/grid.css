@@ -1,0 +1,15 @@
+
+.wrapper {
+	width: 960px; 
+	margin:0 auto;
+	background-color: #59D035;
+}
+
+.sketch_box {
+	float: left;
+	width: 320px; height: 320px;
+}
+
+.clear {
+	clear: both;
+}
